@@ -1,6 +1,6 @@
 ---
 title:  "Mon curriculum vitæ"
-date:   2019-09-29 23:40:00
+date:   2020-08-07 19:40:23
 categories: [jekyll]
 permalink: /cv-fra/
 layout: post
