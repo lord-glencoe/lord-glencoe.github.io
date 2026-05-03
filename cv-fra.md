@@ -144,4 +144,4 @@ Université Technique d'État de Kemerovo
 * Getting things done
 * Apprendre des langues étrangères
 
-Si vous êtes intéressé à apporter mon expérience à votre projet, n'hésitez pas à me contacter à [alex@kudashkin.pro](mailto:alex@kudashkin.pro), skype: [a.kudashkin](skype:a.kudashkin?call), tél.: (438)403-8624. Il me fera plaisir de vous aider à développer le succès de votre entreprise.
+Si vous êtes intéressé à apporter mon expérience à votre projet, n'hésitez pas à me contacter à [alex@kudashkin.pro](mailto:alex@kudashkin.pro). Il me fera plaisir de vous aider à développer le succès de votre entreprise.

@@ -147,4 +147,4 @@ Kemerovo State Technical University,
 * Getting things done
 * Learning foreign languages
 
-If you're interested in bringing my skills to your project, please feel free to contact me. Email: [alex@kudashkin.pro](mailto:alex@kudashkin.pro), skype: [a.kudashkin](skype:a.kudashkin?call), tel: (438)403-8624.
+If you're interested in bringing my skills to your project, please feel free to contact me. Email: [alex@kudashkin.pro](mailto:alex@kudashkin.pro)
